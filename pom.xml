@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>tmf-620-api</module>
+        <module>db-api</module>
     </modules>
 
     <properties>
